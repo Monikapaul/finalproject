@@ -1,5 +1,5 @@
 {
-"post":[
+"products":[
 {"id":1, "name": "slipeers", "description": "bata brands", "price": "50"},
 {"id":2, "name": "high heals", "description": "comfortable", "price": "90"},
 {"id":3, "name": "sport shoes", "description": "leather", "price": "100"},
